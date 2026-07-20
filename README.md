@@ -1,23 +1,26 @@
 ## Hi there 👋
 
-I'm **Hai Lin** — an AI Engineer based in Guangzhou, China.
+I'm **Hai Lin** — an **AI Agent Engineer** based in Guangzhou, China.
 
-I build agents, tools, and infrastructure around **LLM workflows** and the **Dify ecosystem**. Most of my projects sit at the intersection of AI orchestration, developer tooling, and practical automation.
+My main focus is **application-oriented agent development** — building agentic workflows, automation pipelines, and AI-powered products that solve real problems. I occasionally open-source infrastructure projects and developer tools when something I built feels worth sharing.
 
-### 🔧 What I'm working on
+### 🔧 Agent platforms & frameworks
 
-- **Dify tooling** — DSL export/migration, cross-instance sync, plugin integrations
-- **Agent frameworks** — multi-agent orchestration scaffolds, MCP server integrations
-- **Developer tools** — CLI utilities, microservices, and skills for AI coding agents
-- **Vision & OCR** — barcode recognition APIs designed for agentic platforms
+- **Dify** — primary platform, built extensive tooling around it (DSL migration, plugins, integrations)
+- **n8n · Agno · AgentScope** — also in the toolbox, picked per project needs
 
-### 📌 Pinned projects
+### 📌 What you'll find here
 
-Check out the pinned repos below for my most active work.
+| Area | Examples |
+|---|---|
+| Agent orchestration | Multi-agent scaffolds, workflow automation |
+| Dify ecosystem | DSL export/migration, cross-instance sync, model plugins |
+| Developer tools | CLI utilities, MCP integrations, skills for AI coding agents |
+| Infra & microservices | Vision/OCR APIs, lead mining services, backup solutions |
 
 ### 🛠️ Tech stack
 
-`TypeScript` `Python` `Rust` `Go` · Dify · FastAPI · Node.js · MCP · Agent SDKs
+`TypeScript` `Python` `Java` · Dify · FastAPI · Node.js · MCP · Agent SDKs
 
 ### 📫 Reach me
 
